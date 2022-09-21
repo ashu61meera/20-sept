@@ -1,6 +1,5 @@
 this is for new commit
-<<<<<<< HEAD
+HEAD
 This is for features addition
-=======
 This is for defect fixes
->>>>>>> master
+master
